@@ -1,7 +1,7 @@
 <?php
 /*
 * Plugin Name: Wromox Core
-* Plugin URI:  https://github.com/ghepes/wromox-core
+* Plugin URI:  https://github.com/Ghepes/wromox-core/wiki
 * Description: Wromox Core needed for Wromox theme to work properly
 * Version: 1.0.02
 * Author: Studio Wromo by Ghepes
