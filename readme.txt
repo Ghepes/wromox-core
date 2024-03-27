@@ -40,8 +40,12 @@ WromoX Themes WooCommerce 1.1.70
 
 25-03-2024 - Update version to 1.1.0
 Preparation of listing on the Wordpress plugins platform: WP_DEBUG to true for displaying errors until 27.03.2024 does not signal or show any errors. With Wordpress ver. 6.4
-Add - Text reorganization
-Add - button PageSpeed to check real wordpress website speed online, by attaching - PageSpeed Insights - pagespeed.web.dev
+Add - text reorganization
+Add - button PageSpeed to check real wordpress website speed online, by caching - PageSpeed Insights - pagespeed.web.dev
+Add - theme images
+Add - theme icons
+Add - theme description
+Add - css redraw
 
 05-10-2023 - Update version to 1.0.02
 Add - Rearranging css
