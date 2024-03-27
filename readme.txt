@@ -46,6 +46,8 @@ Add - theme images
 Add - theme icons
 Add - theme description
 Add - css redraw
+Add - Custom Post Type for WroMox slider
+
 
 05-10-2023 - Update version to 1.0.02
 Add - Rearranging css
