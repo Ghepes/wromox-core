@@ -4,8 +4,9 @@
 
 
 /*
+
 * Plugin Name: Wromox Core
-* Plugin URI:  https://github.com/ghepes/wromox-core
+* Plugin URI:  http://wordpress.org/plugins/wromox-core
 * Description: Wromox Core needed for Wromox theme to work properly
 * Version: 1.1.0
 * Author: Studio Wromo by Ghepes
@@ -14,6 +15,6 @@
 * Domain Path: /languages
 * License: MIT
 * License URI: http://opensource.org/licenses/MIT
-* Copyright: (c) 2019 - 2020 Studio Wromo
+* Copyright: (c) 2019 - 2024 Studio Wromo
 * Copyright URI: https://github.com/ghepes
 */
