@@ -7,7 +7,6 @@ Tags: woocommerce, themes, woo, core, plugin, wromox-core, list, wp
 Requires at least: 6.4.3
 Tested up to: 6.4.3
 Stable tag: 6.4.3
-Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://opensource.org/licenses/MIT
 DomainPath: /languages
@@ -36,10 +35,12 @@ https://i.ibb.co/z5nZBtZ/banner-1544x500-2.png
 https://i.ibb.co/hW1rwzL/icon-128x128.jpg
 https://i.ibb.co/LtJFVZX/icon-256x256.jpg
 
-
 == Description ==
 
-WromoX Core is an official plugin maintained by Studio Wromo Marketplace. It is a part of the WordPress team blogs end WooCommerce theme that installs on WordPress admin editor WromoX Themes and the "Edit Themes" "Post" "Blogs" "Stores". It makes it possible to use themes embended in that screen admin, add and edit themes in the previous editor. WromoX Core is a premium theme optimized for creating WooCommerce online stores end best WordPress Blogs.
+It is a part of the WordPress team blogs end WooCommerce theme that installs on WordPress admin editor for WromoX Themes. "Edit Themes" "Post" "Blogs" "Stores". It makes it possible to use themes embended in that screen admin, themes in the previous editor with klick instant install for themes. WromoX Core is a premium theme optimized for creating WooCommerce online stores end best WordPress Blogs.
+
+WromoX Core is an official plugin maintained by Studio Wromo Marketplace.
+<https://github.com/Ghepes/wromox-core/blob/18bf30564391369fd269f1f4da0d4a63a793b5e6/.github/ISSUE_TEMPLATE/bug_report.md/>
 
 
 == Installation ==
@@ -61,7 +62,7 @@ WromoX Core is an official plugin maintained by Studio Wromo Marketplace.
 <https://github.com/Ghepes/wromox-core/blob/18bf30564391369fd269f1f4da0d4a63a793b5e6/.github/ISSUE_TEMPLATE/bug_report.md/>
 
 == Requirements ==
-WromoX Themes WooCommerce 1.1.9
+WromoX Themes WooCommerce
 
 == Changelog ==
 
@@ -87,14 +88,17 @@ WromoX Themes WooCommerce 1.1.9
 * Fixed - logo plugin integration menu admin wordpress backend
 * Fixed - synchronization Template rendering images
 
+
 30-11-2022 - Update version to 1.0.01
 * Fixed - CSS redraw admin backend plugin
 * Fixed - attach template button
+
 
 21-07-2022 - Update version to 1.0.00
 * Fixed - plugins import theme WromoX
 * Fixed - theme installation sync
 * Fixed - icon menu
+
 
 06-08-2021 - Relase version to 1.0
 * Initial release.
@@ -119,6 +123,7 @@ The settings can be changed and default network-wide editor can be selected on t
 wromo-core menu, see this [screenshot](https://i.ibb.co/xsh2ppP/wromox-core-menu-wordpress.png?rev=202400001).
 
 = Does this work with full site editing and block themes? =
+Add Relase v1
 
 wromo-core menu, see this [screenshot](https://i.ibb.co/jJmj7CG/wromox-core-install.png?rev=202400002).
 
@@ -128,5 +133,7 @@ wromo-core menu, see this [screenshot](https://i.ibb.co/jJmj7CG/wromox-core-inst
 3. "Action links" to choose alternative editor or plugins. 
 4. Link to switch to the block editor while editing a post.
 5. Theme settings to select the default themes for the wordpress.
-6. The "Switch to new theme" link.
+
+
+
 
