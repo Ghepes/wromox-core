@@ -3,14 +3,13 @@
 Contributors: wromo
 Tags: woocommerce, themes, woo, core, plugin, wromox-core, list
 Requires at least: 1.0
-Tested up to: 6.4
-Stable tag: 1.1.0
+Tested up to: 6.0
+Stable tag: 6.4
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://opensource.org/licenses/MIT
 DomainPath: /languages
 Text Domain: wromox-core
-RequiresPHP: 7.0
 UpdateURI: https://wordpress.org/plugins/wromox-core/readme.txt
 
 Here is a short description of the plugin. Wromox Core is WordPressneeded plugins to work properly. Wromox Core needed for Wromox theme to work properly. Wromox Core is a parts of Wromox theme WooCommerce.
