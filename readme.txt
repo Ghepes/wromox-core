@@ -1,10 +1,12 @@
 === WromoX Core ===
 
+Plugin Name: Wromox Core
+Plugin URI:  <http://wordpress.org/plugins/wromox-core>
 Contributors: wromo
-Tags: woocommerce, themes, woo, core, plugin, wromox-core, list
-Requires at least: 1.0
-Tested up to: 6.0
-Stable tag: 6.4
+Tags: woocommerce, themes, woo, core, plugin, wromox-core, list, wp
+Requires at least: 6.4.3
+Tested up to: 6.4.3
+Stable tag: 6.4.3
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://opensource.org/licenses/MIT
