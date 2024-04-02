@@ -3,19 +3,19 @@
 ## Description: Wromox Core needed for Wromox theme to work properly
 
 /*
-
-* Plugin Name: Wromox Core
-* Plugin URI:  <http://wordpress.org/plugins/wromox-core>
-* Description: Wromox Core needed for Wromox theme to work properly
-* Version: 1.1.0
-* Author: Studio Wromo by Ghepes
-* Author URI: <https://github.com/ghepes>
-* Text Domain: wromox-core
-* Domain Path: /languages
-* License: MIT
-* License URI: <http://opensource.org/licenses/MIT>
-* Copyright: (c) 2019 - 2024 Studio Wromo
-* Copyright URI: <https://github.com/ghepes>
+Plugin Name: Wromox Core
+Plugin URI:  <http://wordpress.org/plugins/wromox-core>
+Contributors: wromo
+Tags: woocommerce, themes, woo, core, plugin, wromox-core, list, wp
+Requires at least: 6.4.3
+Tested up to: 6.4.3
+Stable tag: 6.4.3
+Requires PHP: 7.0
+License: GPLv2 or later
+License URI: http://opensource.org/licenses/MIT
+DomainPath: /languages
+Text Domain: wromox-core
+UpdateURI: https://wordpress.org/plugins/wromox-core/readme.txt
 */
 
 == Screenshots ==
