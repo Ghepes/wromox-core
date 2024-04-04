@@ -12,8 +12,6 @@
  License URI: http://opensource.org/licenses/MIT
  Copyright: (c) 2019 - 2020 Studio Wromo
  Copyright URI: https://github.com/ghepes
- Requires at least: 7.0
- RequiresPHP: 7.0
  UpdateURI: https://wordpress.org/plugins/wromox-core/readme.txt
 
   WromoX Core is an official plugin for WordPress
