@@ -28,9 +28,9 @@ UpdateURI: https://wordpress.org/plugins/wromox-core/readme.txt
 
  Online Links icos end benner for WromoX Core
 
-<https://i.ibb.co/289X5rQ/banner-725x250.jpg>
-<https://i.ibb.co/5McyHCp/banner-725x250-2.jpg>
-<https://i.ibb.co/YRPwyqr/banner-1544x500.png>
-<https://i.ibb.co/z5nZBtZ/banner-1544x500-2.png>
-<https://i.ibb.co/hW1rwzL/icon-128x128.jpg>
-<https://i.ibb.co/LtJFVZX/icon-256x256.jpg>
+[banner-725x250.jpg](https://raw.githubusercontent.com/Ghepes/wromox-core/main/assets/banner-725x250.jpg)
+[banner-725x250-2.jpg](https://raw.githubusercontent.com/Ghepes/wromox-core/main/assets/banner-725x250-2.jpg)
+[banner-1544x500.png](https://raw.githubusercontent.com/Ghepes/wromox-core/main/assets/banner-1544x500.jpg)
+[banner-1544x500-2.png](https://raw.githubusercontent.com/Ghepes/wromox-core/main/assets/banner-1544x500-2.jpg)
+[icon-128x128.jpg](https://raw.githubusercontent.com/Ghepes/wromox-core/main/assets/icon-128x128.jpg)
+[icon-256x256.jpg](https://raw.githubusercontent.com/Ghepes/wromox-core/main/assets/icon-256x256.jpg)
