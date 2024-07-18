@@ -34,3 +34,4 @@ UpdateURI: https://wordpress.org/plugins/wromox-core/readme.txt
 [banner-1544x500-2.png](https://raw.githubusercontent.com/Ghepes/wromox-core/main/assets/banner-1544x500-2.jpg)
 [icon-128x128.jpg](https://raw.githubusercontent.com/Ghepes/wromox-core/main/assets/icon-128x128.jpg)
 [icon-256x256.jpg](https://raw.githubusercontent.com/Ghepes/wromox-core/main/assets/icon-256x256.jpg)
+![banner-725x250](https://github.com/user-attachments/assets/a1858259-c30f-4eb6-9416-eb0a40d16be6)
