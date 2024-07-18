@@ -30,8 +30,13 @@ UpdateURI: https://wordpress.org/plugins/wromox-core/readme.txt
 
 
 ![banner-725x250](https://github.com/user-attachments/assets/a1858259-c30f-4eb6-9416-eb0a40d16be6)
+
 ![banner-1544x500-2](https://github.com/user-attachments/assets/ddbec2ec-acaf-4864-91a9-86a98b731eed)
+
 ![banner-1544x500](https://github.com/user-attachments/assets/379c30cf-6019-486d-b914-4de140c1f1ce)
+
 ![banner-725x250-2](https://github.com/user-attachments/assets/1bdac69d-67f7-4ff7-a891-fdbe28837c9b)
+
 ![icon-128x128](https://github.com/user-attachments/assets/ce28dd25-d8cd-43d8-92df-68b8b088d7ab)
+
 ![icon-256x256](https://github.com/user-attachments/assets/322c8416-be3c-4d19-b1bd-7cdccd0c6e68)
